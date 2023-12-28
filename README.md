@@ -3,7 +3,7 @@
 I’m currently learning Web development and C++
 I’m looking to collaborate with ... Myself
 Email: singhairohan15@gmail.com
-Linkedin : linkedin.com/in/rohanjain15
+Linkedin : [linkedin.com/in/rohanjain15](https://linkedin.com/in/rohanjain15)
 
 <!---
 singhai15rohan/singhai15rohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
